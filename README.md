@@ -1,6 +1,7 @@
-<h1 align="center">Ryo Ochiai (a.k.a. kemuridama)</h1>
+# Ryo Ochiai (a.k.a. kemuridama)
 
-Software Engineer at freee K.K.
+- Software Engineer and DevRel at freee K.K.
+- A member of the sponsor team of TSKaigi
 
 ## :seedling: Skills
 
@@ -15,15 +16,23 @@ Software Engineer at freee K.K.
 ### :hammer_and_wrench: Frameworks and Libraries
 
 - React
+  - Storybook
 - Ruby on Rails
+
+### Tools and Other
+
+- Visual Studio Code
+- Home server
+  - VyOS
 
 ## :briefcase: Careers
 
-### 2018-current freee K.K.
+### 2018 - current freee K.K.
 
+I'm a new graduate in 2018 and working as a software engineer, DevRel and in-house streaming operator.
 As a software engineer, I develop and maintain freee会計, their accounting SaaS application.
-
-As a member of dev branding team, I organize technology events.
+As a DevRel, a member of dev branding team, I organize technology events.
+As a in-house streaming operator, I build in-house studios and operate in-house hybrid events and online general meetings of shareholders.
 
 ## :dart: Activities
 
