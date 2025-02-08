@@ -12,27 +12,40 @@
 - Ruby
 - Scala
 - HTML/CSS
+- PHP
 
 ### :hammer_and_wrench: Frameworks and Libraries
 
 - React
   - Storybook
 - Ruby on Rails
+- Akka
 
 ### Tools and Other
 
 - Visual Studio Code
+- GitHub / GitHub Actions
 - Home server
   - VyOS
 
 ## :briefcase: Careers
 
-### 2018 - current freee K.K.
+### 2018/4 - current freee K.K.
 
 I'm a new graduate in 2018 and working as a software engineer, DevRel and in-house streaming operator.
 As a software engineer, I develop and maintain freee会計, their accounting SaaS application.
-As a DevRel, a member of dev branding team, I organize technology events.
+As a DevRel, a member of dev branding team, I organize technology events and in-house technology conference called "freee 技術の日".
 As a in-house streaming operator, I build in-house studios and operate in-house hybrid events and online general meetings of shareholders.
+
+#### Recently
+
+I'm rewriting huge and main components of their service to return technology debts with improving usability and  maintainability.
+In addition, I'm building a frontend architecture to improve the development producivity of other developers.
+
+### 2013/8 - 2018/3 Solflare Inc.
+
+As a part-time software engineer, I developed thier social networking service.
+And also I built an OAuth 2 authentication base and RESTful APIs for a mobile applications in Scala from scratch.
 
 ## :dart: Activities
 
