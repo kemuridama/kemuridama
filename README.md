@@ -1,5 +1,7 @@
 # Ryo Ochiai (a.k.a. kemuridama)
 
+- Live in Tokyo
+- Born in Yaizu, Shizuoka on November 16, 1993
 - Software Engineer and DevRel at freee K.K.
 - A member of the sponsor team of TSKaigi
 
@@ -40,14 +42,33 @@ As a in-house streaming operator, I build in-house studios and operate in-house 
 #### Recently
 
 I'm rewriting huge and main components of their service to return technology debts with improving usability and  maintainability.
-In addition, I'm building a frontend architecture to improve the development producivity of other developers.
+In addition, I'm building a frontend architecture to improve the development productivity of other developers.
+
+#### Migrating from JavaScript to TypeScript
+
+I thought re-architecture of frontend based on TypeScript and Redux to return technology debts.
+Before then we used JavaScript and Flow, but as the scale of development expanded we have become difficult to develop.
+Moreover TypeScript is becoming de facto standard in frontend developing so we have become difficult recruit too.
+So I decided to re-architect frontend and built a base for other engineers to develop in TypeScript.
+
+#### Building search platform
+
+Our service treats huge data so declining search performance becomes a problem.
+I decided to use Elasticsearch (AWS OpenSearch Service) as a search platform and built a data delivery architecture using AWS S3 and AWS Lambda to Elasticsearch.
+As a result, search performance with complex conditions including like operators.
 
 ### 2013/8 - 2018/3 Solflare Inc.
 
-As a part-time software engineer, I developed thier social networking service.
+As a part-time software engineer, I developed their social networking service.
 And also I built an OAuth 2 authentication base and RESTful APIs for a mobile applications in Scala from scratch.
 
 ## :dart: Activities
+
+### :mic: Interviews
+
+- [2021-11-10 「マジ価値」の提供に向けて嘘をつかないピュアな集団freee株式会社。 最前線で活躍するエンジニアが誇りをもって働くために大事にする考え方に迫る](https://re-katsu.jp/career/knowhow/job/special/detail/id=540)
+- [2021-07-30 freee新卒エンジニアに入社理由ややりがいなど、色々と質問してみた。](https://www.wantedly.com/companies/freee/post_articles/338683)
+- [2018-01-11 なぜ新卒でfreeeに！？18卒内定者インタビュー in 内定式](https://jobs.freee.co.jp/recruitblog/newgrads/newgrads2018naitei/)
 
 ### :memo: Posts
 
