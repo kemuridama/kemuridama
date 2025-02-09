@@ -16,18 +16,18 @@
 - HTML/CSS
 - PHP
 
-### :hammer_and_wrench: Frameworks and Libraries
+### :books: Frameworks and Libraries
 
 - React
   - Storybook
 - Ruby on Rails
 - Akka
 
-### Tools and Other
+### :hammer_and_wrench: Tools and Other
 
 - Visual Studio Code
 - GitHub / GitHub Actions
-- Home server
+- Home Server
   - VyOS
 
 ## :briefcase: Careers
@@ -64,7 +64,14 @@ And also I built an OAuth 2 authentication base and RESTful APIs for a mobile ap
 
 ## :dart: Activities
 
-### :mic: Interviews
+### :speaking_head: Presentations
+
+- [2024-12-18 freeeのエンジニアとReactチュートリアルを学ぼう](https://speakerdeck.com/kemuridama/freeenoensiniatoreacttiyutoriaruwoxue-hou)
+- [2023-10-25 freee Tech Night がもうすぐ 5 周年を迎える話](https://speakerdeck.com/kemuridama/freee-tech-night-will-soon-be-5th-anniversary)
+- [2023-04-16 会計フロントエンドの TypeScript 化](https://speakerdeck.com/kemuridama/migrating-frontend-of-freee-accounting-to-typescript)
+- [2019-03-26 会計freee が yarn から npm に出戻った本当の理由](https://speakerdeck.com/kemuridama/hui-ji-freee-ga-yarn-kara-npm-nichu-li-tutaben-dang-falseli-you)
+
+### :microphone: Interviews
 
 - [2021-11-10 「マジ価値」の提供に向けて嘘をつかないピュアな集団freee株式会社。 最前線で活躍するエンジニアが誇りをもって働くために大事にする考え方に迫る](https://re-katsu.jp/career/knowhow/job/special/detail/id=540)
 - [2021-07-30 freee新卒エンジニアに入社理由ややりがいなど、色々と質問してみた。](https://www.wantedly.com/companies/freee/post_articles/338683)
